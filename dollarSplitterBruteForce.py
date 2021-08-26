@@ -7,7 +7,7 @@ DIME = 10
 QUARTER = 25;
 
 #ONLY CHANGE THE NUMBER HERE
-dollarAmount = 1
+dollarAmount = 5
 
 if (math.floor(dollarAmount) == dollarAmount):
     print('Provided dollar amount: ', dollarAmount)
